@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashwin</h1>
-<h3 align="center">A Husband, Developer, Teacher and a full-time student of life!</h3>
+<h1 align="left">Hi 👋, I'm Ashwin</h1>
+<h3 align="left">A Husband, Developer, Teacher and a full-time student of life!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin1060" alt="ashwin1060" /> </p>
 
