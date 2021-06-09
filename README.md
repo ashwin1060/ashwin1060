@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Healthcare industry**
 
-- 🌱 I’m currently learning **GraphQL, Containers, RabbitMQ**
+- 🌱 I’m currently learning **Blazor, GRPC**
 
 - 👯 I’m looking to collaborate on **various projects involving micro services**
 
