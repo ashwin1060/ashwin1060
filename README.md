@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin1060" alt="ashwin1060" /> </p>
 
-- 🔭 I’m currently working in **Healthcare industry**
+- 🔭 I’m currently working in **FinTech industry**
 
-- 🌱 I’m currently learning **Blazor, GRPC**
+- 🌱 I’m currently learning **Desing patterns in strict mode**
 
 - 👯 I’m looking to collaborate on **various projects involving micro services**
 
